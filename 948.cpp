@@ -1,7 +1,7 @@
 948. Bag of Tokens
 https://leetcode.com/problems/bag-of-tokens/
 
-// SKATALA
+// not my solution
 class Solution {
 public:
     int bagOfTokensScore(vector<int>& tokens, int power) {
